@@ -44,7 +44,7 @@
 
 5. #### Funkcionális terv
     #### **Rendszerszereplők**:   Szervizes munkatárs
-    **Rendszerhasználati esetek és lefutásaik:**
+    **Rendszerhasználati esetek:**
 
     Szervizes kollega:
 
