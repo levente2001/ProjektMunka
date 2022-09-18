@@ -19,6 +19,17 @@
 			- Szükséges alkatrész(ek) beszerzése
 			- Folyamat folytatása az 5. pontól 
 
+## 4. Igényelt üzleti folyamat:
+
+		- Mindenki számára online elérhető weboldalra való felvitel
+
+		- Új munka felvétele
+
+		- Gyorsabb értesítés a munka tarsak felé
+
+		- Munka státuszok élő beállitasa
+	
+
 ## 5. Programozási nyelv és egyéb elvárások:
 		
 		-A szoftver **HTML**, **CSS** és **JavaScript** nyelven íródjon.
