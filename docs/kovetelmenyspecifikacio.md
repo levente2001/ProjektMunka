@@ -8,3 +8,15 @@
 		
 		-A szoftver **HTML**, **CSS** és **JavaScript** nyelven íródjon.
 		-Támogass a **JPG** és **PNG** képformátumoka.
+		
+## 6. Követelmény lista:
+	
+		- Responziv webdizájn
+
+		- Mobilon is elerhető
+
+		- Letisztult rendszer
+
+		- Hatékony működés
+
+		- Teendők könnyű és mindenki számára elérhető kezelése
