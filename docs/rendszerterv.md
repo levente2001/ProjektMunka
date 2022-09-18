@@ -16,20 +16,20 @@
 
         Feladatuk, a fronted igényes és felhasználóbarát megalkotása, valamint a rendszer funkcióinak létrehozása, és a webes felület zökkenőmentes működésének biztosítása.
 
-**Ütemterv:**
+    **Ütemterv:**
 
 
-|**Funkció / Story**|**Feladat / Task**|
-| :- | :- |
-|Követelmény specifikáció|<p>köv.spec. elkészítése</p><p></p>|
-|Funkcionális specifikáció|funkc.spec elkészítése|
-|Rendszerterv|rendszerterv írása|
-|Funkciók létrehozása|Működőképessé tenni a frontend felületet|
-|Kezelőfelölet Design|Felhasználó barát felület|
+    |**Funkció / Story**|**Feladat / Task**|
+    | :- | :- |
+    |Követelmény specifikáció|<p>köv.spec. elkészítése</p><p></p>|
+    |Funkcionális specifikáció|funkc.spec elkészítése|
+    |Rendszerterv|rendszerterv írása|
+    |Funkciók létrehozása|Működőképessé tenni a frontend felületet|
+    |Kezelőfelölet Design|Felhasználó barát felület|
 
 
 3. #### Üzleti folyamatok modellje
-#### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak a bicikli szervízben. A szervizes kollega kezeli a munkafolyamatok jelenlegi állapotát. A folyamatok nyomon követhetőek a többi munkatárs számára is.
+    #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak a bicikli szervízben. A szervizes kollega kezeli a munkafolyamatok jelenlegi állapotát. A folyamatok nyomon követhetőek a többi munkatárs számára is.
 ![](model.png)
 
 4. #### Funkcionális Követelmények
@@ -48,18 +48,17 @@
 
     Szervizes kollega:
 
-    0. Feljegyezheti a legújabb munkafolyamatot a listára
-    0. nyomon követheti a munkafolyamatokat
-    0. módosíthat a munkafolyamatok jelenlegi állapotán
-    0. törölhet munkafolyamatokat
+        1. Feljegyezheti a legújabb munkafolyamatot a listára
+        2. nyomon követheti a munkafolyamatokat
+        3. módosíthat a munkafolyamatok jelenlegi állapotán
+        4. törölhet munkafolyamatokat
 
 
     **Menü-hierarchiák:**
 
-    0. Főmenü
-
-    0. Új munkafolyamat feljegyzése
-    0. munkafolyamat stádiumának módosítása
-    0. munkafolyamatok listája
-    0. munkafolyamat törlése
+        1. Főmenü
+        2. Új munkafolyamat feljegyzése
+        3. munkafolyamat stádiumának módosítása
+        4. munkafolyamatok listája
+        5. munkafolyamat törlése
 
