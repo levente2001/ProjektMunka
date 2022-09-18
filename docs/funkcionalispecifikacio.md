@@ -7,7 +7,7 @@ Cégünk, a Yoshihiro Kft. célja az elektromos kerékpárok népszerűsítése 
 Az évek során jól megszokott praktikák és az általunk használt rendszerek sajnos elavultak. Mivel cégünk jeligéje az innováció, ezért úgy gondoljuk egy fejlett szoftver használata kulcsfontosságú lehet a további működésünkben. Jelenleg a munkafolyamatok és azok állapota egy jegyzettömbben van vezetve, ami közel sem ideális. Nehezen átlátható, hogy éppen melyik munka milyen fázisban van, illetve az, hogy mennyi teendőnk van adott kerékpárokkal. Ez a szoros határidőkkel párosulva megterhelő és időnként stresszes lehet csapatunk számara.  Munkatársainknak egy egyszerű és problémamentes légkört tervezünk kialakítani az eredményes feladatvégzéshez.
 
 ## 3.	Követelménylista:
-|ID|név|leírás|
+|**ID**|**név**|**leírás**|
 |:----:|----:|:----|	
 |K1	|Letisztult rendszer	|Könnyen átlátható és értelmezhető felület a gyors munkavégzés elősegítéséhez|
 |K2	|Reszponzív webdizájn	|Optimális megjelenítés a felhasználó által kezelt különböző eszközökön|
