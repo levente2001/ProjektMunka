@@ -30,7 +30,6 @@ Feladatuk, a fronted igényes és felhasználóbarát megalkotása, valamint a r
 
 3. #### Üzleti folyamatok modellje
 #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak a bicikli szervízben. A szervizes kollega kezeli a munkafolyamatok jelenlegi állapotát. A folyamatok nyomon követhetőek a többi munkatárs számára is.
-![](Aspose.Words.3d278d9c-da8d-4a9d-905c-98dc6e14f2bc.001.png)
 
 4. #### Funkcionális Követelmények
 - Munkafolyamatok tárolása
