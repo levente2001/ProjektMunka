@@ -1,20 +1,20 @@
 ## Rendszerterv
 
 1. #### A rendszer célja
-   0. Az informatikai rendszerünk célja, hogy a felhasználók, a korábbi megoldásokkal ellentétben, sokkal könnyebben végezze el a munkafolyamatok vezetését. Fontos szempont, hogy a kezelőfelület egyszerű, letisztult legyen. A webes alkalmazásban egyféle szerepkör van, a feladat amire hivatott nem igényel bonyolultabb rétegeket. A felület elérhető minden eszközről, ami képes internet elérésre. Az adatokat amikre szükség van az alkalmazáshoz, a felhasználó eszközén tároljuk.
+    Az informatikai rendszerünk célja, hogy a felhasználók, a korábbi megoldásokkal ellentétben, sokkal könnyebben végezze el a munkafolyamatok vezetését. Fontos szempont, hogy a kezelőfelület egyszerű, letisztult legyen. A webes alkalmazásban egyféle szerepkör van, a feladat amire hivatott nem igényel bonyolultabb rétegeket. A felület elérhető minden eszközről, ami képes internet elérésre. Az adatokat amikre szükség van az alkalmazáshoz, a felhasználó eszközén tároljuk.
 
 2. #### Projektterv
-**Projektszerepkörök, felelőségek:**
+    **Projektszerepkörök, felelőségek:**
 
-Scrum master: Nekem Mindegy csapata
+        Scrum master: Nekem Mindegy csapata
 
-Product owner: Nekem Mindegy csapata
+        Product owner: Nekem Mindegy csapata
 
-**Projektmunkások és felelőségek:**
+    **Projektmunkások és felelőségek:**
 
-Backend munkálatok, Frontend munkálatok: Nekem mindegy csapata
+        Backend munkálatok, Frontend munkálatok: Nekem mindegy csapata
 
-Feladatuk, a fronted igényes és felhasználóbarát megalkotása, valamint a rendszer funkcióinak létrehozása, és a webes felület zökkenőmentes működésének biztosítása.
+        Feladatuk, a fronted igényes és felhasználóbarát megalkotása, valamint a rendszer funkcióinak létrehozása, és a webes felület zökkenőmentes működésének biztosítása.
 
 **Ütemterv:**
 
@@ -33,33 +33,33 @@ Feladatuk, a fronted igényes és felhasználóbarát megalkotása, valamint a r
 ![](model.png)
 
 4. #### Funkcionális Követelmények
-- Munkafolyamatok tárolása
-- Munkafolyamatok állapotának vezetése
-- Webes felületen való elérés mobil és tablet eszközön.
+        - Munkafolyamatok tárolása
+        - Munkafolyamatok állapotának vezetése
+        - Webes felületen való elérés mobil és tablet eszközön.
 
-Nem funkcionális követelmények:
+    Nem funkcionális követelmények:
 
-- A program nem tárol semmilyen felhasználói adatot, csupán a munkafolyamatok állapotát és nevét.
+        - A program nem tárol semmilyen felhasználói adatot, csupán a munkafolyamatok állapotát és nevét.
 
 
 5. #### Funkcionális terv
-#### **Rendszerszereplők**:   Szervizes munkatárs
-**Rendszerhasználati esetek és lefutásaik:**
+    #### **Rendszerszereplők**:   Szervizes munkatárs
+    **Rendszerhasználati esetek és lefutásaik:**
 
-Szervizes kollega:
+    Szervizes kollega:
 
-0. Feljegyezheti a legújabb munkafolyamatot a listára
-0. nyomon követheti a munkafolyamatokat
-0. módosíthat a munkafolyamatok jelenlegi állapotán
-0. törölhet munkafolyamatokat
+    0. Feljegyezheti a legújabb munkafolyamatot a listára
+    0. nyomon követheti a munkafolyamatokat
+    0. módosíthat a munkafolyamatok jelenlegi állapotán
+    0. törölhet munkafolyamatokat
 
 
-**Menü-hierarchiák:**
+    **Menü-hierarchiák:**
 
-0. Főmenü
+    0. Főmenü
 
-   0. Új munkafolyamat feljegyzése
-   0. munkafolyamat stádiumának módosítása
-   0. munkafolyamatok listája
-   0. munkafolyamat törlése
+    0. Új munkafolyamat feljegyzése
+    0. munkafolyamat stádiumának módosítása
+    0. munkafolyamatok listája
+    0. munkafolyamat törlése
 
