@@ -7,12 +7,12 @@ Cégünk, a Yoshihiro Kft. célja az elektromos kerékpárok népszerűsítése 
 Az évek során jól megszokott praktikák és az általunk használt rendszerek sajnos elavultak. Mivel cégünk jeligéje az innováció, ezért úgy gondoljuk egy fejlett szoftver használata kulcsfontosságú lehet a további működésünkben. Jelenleg a munkafolyamatok és azok állapota egy jegyzettömbben van vezetve, ami közel sem ideális. Nehezen átlátható, hogy éppen melyik munka milyen fázisban van, illetve az, hogy mennyi teendőnk van adott kerékpárokkal. Ez a szoros határidőkkel párosulva megterhelő és időnként stresszes lehet csapatunk számara.  Munkatársainknak egy egyszerű és problémamentes légkört tervezünk kialakítani az eredményes feladatvégzéshez.
 
 ## 3.	Követelménylista:
-	
-K1	Letisztult rendszer	Könnyen átlátható és értelmezhető felület a gyors munkavégzés elősegítéséhez
-K2	Reszponzív webdizájn	Optimális megjelenítés a felhasználó által kezelt különböző eszközökön
-K3	Mobilon is elérhető	Telefonnal is egy kattintásra elérhető adatok
-K4	Hatékony működés	Hibamentes és pontos értékek reprezentálása, gyors üzemelés
-K5	Platformfüggetlenség	Mindenki számára elérhető, felülettől független alkalmazhatóság
+|:--:|----:|:----------|	
+|K1	|Letisztult rendszer	|Könnyen átlátható és értelmezhető felület a gyors munkavégzés elősegítéséhez|
+|K2	|Reszponzív webdizájn	|Optimális megjelenítés a felhasználó által kezelt különböző eszközökön|
+|K3	|Mobilon is elérhető	|Telefonnal is egy kattintásra elérhető adatok|
+|K4	|Hatékony működés	|Hibamentes és pontos értékek reprezentálása, gyors üzemelés|
+|K5	|Platformfüggetlenség	|Mindenki számára elérhető, felülettől független alkalmazhatóság|
 
 ## 4.	Jelenlegi üzleti folyamatok modellje:
 A megrendelő megkeres minket személyesen az üzletünkben, telefonon vagy e-mailben és tájékoztat minket az elvégzendő munkáról. Feljegyezzük a feladatokat egy jegyzettömbbe, majd az adott időben szabad kapacitással rendelkező kollegánkat értesítjük a teendőkről. Ezután a raktárunkban ellenőrizzük, hogy a megfelelő alkatrészek készleten vannak, illetve rendelkezésre állnak-e. Hiányos készlet esetén következő feladatunk a kért alkatrészek beszerzése, megrendelése. Ezek birtokában már megkezdhetjük az átalakítást a vásárló igényei szerint. A munka utolsó fázisa az elkészült kerékpár átadása a kedves ügyfelünknek.
