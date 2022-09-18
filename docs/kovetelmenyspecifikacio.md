@@ -23,9 +23,9 @@
 		
 ## 6. Követelmény lista:
 	
-		- Responziv webdizájn
+		- Reszponzív webdizájn
 
-		- Mobilon is elerhető
+		- Mobilon is elérhető
 
 		- Letisztult rendszer
 
