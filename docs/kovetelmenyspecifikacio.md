@@ -3,6 +3,9 @@
 ## 1. Áttekintés
  A **Yoshihiro kft.** hagyományos biciklik elektromos biciklivé való átalakításával foglalkozik. A cégnél dolgozó munkatársaknak szüksége van egy bárhonnan elérhető weboldalra, amelyen a munka folyamatokat vezetni tudják, illetve az adott munkafolyamatok állapotát tudják szerkeszteni és új munkafolyamatokat létrehozni a rendszerben.
 
+## 2. Jelenlegi helyzet
+ Jelenlegi rendszerunk elavult technikát használ, jegyzettömben vezessuk a munkafolyamatokat. Ez több szempontból is hátrányos. Lassítja a munkák elvégzését és az új munkák felvételét. A munkatársak panaszait meghallagatva és cégünk innovatív felfogását figyelembe véve szükségünk van a megújulásra és erre egy új cégünk igényeihez igazodó szoftverre van szükségünk.
+
 ## 3. Jelenlegi rendszerünk:
 
 		1. Új munka felvétele 
