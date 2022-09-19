@@ -68,6 +68,10 @@
         •	Fejlesztői eszközök:
             o	Visual Studio Code
 
+7. #### Absztract domain modell
+    #### Az alábbi modell az absztrakt komponenseket és ezekk kapcsolatait írja le.
+    ![](abstractdomain.png)
+
 8. #### Architekturális terv
         •	A program JavaScript segítségével biztosít login felületet, ahol a felhasználó bejelentkezhet.
 
