@@ -76,7 +76,10 @@
         •	A program JavaScript segítségével biztosít login felületet, ahol a felhasználó bejelentkezhet.
 
 9. #### Implementációs terv
-        •	A program főként HTML, CSS, és JavaScript nyelveken fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz kapcsolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. 
+        •	A program főként HTML, CSS, és JavaScript nyelveken fog készülni. 
+        Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, 
+        és úgy fogjuk egymáshoz kapcsolni a jobb átláthatóság, 
+        könnyebb változtathatóság, és könnyebb bővítés érdekében. 
 
 10. #### Tesztterv
         1.	Alfa teszt:
@@ -90,7 +93,10 @@
             •	Ha hiba lép fel, a fejlesztők kijavítják a lehető leggyorsabban.
         3. Tesztelendő funkciók: 
             o	Login felület:
-                	•	A login felület elrendezésének ellenőrzése: A weblap megnyitásánál egy üdvözlő felület jelenik meg, ahol a Bejelentkezés gombra kattintva kell átirányítania a bejelentkező felületre. A képernyőterveknek megfelelően kell kinéznie. A bejelentkező felületen a felhasználónév és jelszó beírása után a bejelentkezés gombra kattintva át kell, hogy irányítson a főoldalra.
+                	•	A login felület elrendezésének ellenőrzése: A weblap megnyitásánál egy üdvözlő felület jelenik meg, 
+                    ahol a Bejelentkezés gombra kattintva kell átirányítania a bejelentkező felületre. 
+                    A képernyőterveknek megfelelően kell kinéznie. A bejelentkező felületen a felhasználónév és jelszó 
+                    beírása után a bejelentkezés gombra kattintva át kell, hogy irányítson a főoldalra.
 
 11. #### Telepítési terv
 
