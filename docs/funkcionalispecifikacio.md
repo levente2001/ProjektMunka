@@ -36,3 +36,15 @@ Reszponzív webdízáj a szoftvernek ki kell elégítenie a következő pontokat
 
 ## 9.  Forgatókönyv
 Szereplők: Futási időben egy ADMIN felhasználó, illetve több egyszerű nem ADMIN felhasználó (munkatársak) használja a rendszert. Az szoftver kezdőlapján semmi lényeges nem történik, innen tovább ugarhatunk a bejelentkezési oldalra ahonnan vissza tudunk ugrani a kezdőlapra vagy bejelentkezhetünk. Regisztráció külön nincs lehetőségünk, mivel ezt az ADMIN felhasználó intézi minden új munkatárs esetén. Bejelentkezés után új munkalistákat csak az ADMIN felhasználó tud létrehozni, viszont szerkeszteni bármelyik felhasználó tudja a munkákat, ez azt jelenti, hogy a munkák státuszát tudják változtatni. Minden oldalról visszatudunk lépni a kezdőlapra, illetve a bejelentkezési képernyőre. 
+
+## 10. Funkció - Követelmény megfeleltetés
+
+A funkciója a gyors, egyszerű teendő lista létrehozására szolgál. A egyszerűségének köszönhetően több munkalistán lévő teenedőket lehetséges szerkeszteni a felhasználók által. Mivel több munkalista egyszerre lévő alkalmazására is szolgál, illetve egyszerű és gyors szerkesztésére illetve folyamat státuszának változtatására is alkalmas, ezért az összes munkatárs aki rendelkezésre áll, képes több folyamat egyszerre történő elvégzésére akadálymentesen. Akár elég a felhasználó számára egy okostelefon, illetve internetszolgáltatás és ezek segítségével készen áll a szolgáltaltás igénybevételére.
+
+## 11. Fogalomszótár:
+
+[Home]: Kezdőlap, ami a weboldal indulásakor jelenik meg.
+
+[Login Page]: Bejelenetkezési oldal, amely a weboldalra való bejelentkezésre szolgál a megfelelő felhasználói adatok segítségével.
+
+[Todo]: Teendő, a lista egyik feladata/teendője.
