@@ -62,3 +62,17 @@
         4. munkafolyamatok listája
         5. munkafolyamat törlése
 
+11. #### Telepítési terv
+
+        A webes felülethez csak egy böngésző telepítése szükséges, külön szoftver nem kell hozzá. A webszerverre közvetlenül az internetről kapcsolódnak rá a kliensek.
+
+12. #### Karbantartási terv
+
+        A webes felület folyamatos karbantartása illetve üzemeltetése, ami hibák elhárítását, igényeknek megfelelően módosítások végzése. Ellenőrizni kell a frissítések utáni esetleges hibákat, illetve szélesíteni a képernyő felbontás kompatibilitást a különböző eszközökre (tablet, telefon). Igénynek megfelelően a szerver mennyiség növelése illetve karbantartása. 
+
+    **Karbantartás:**
+
+        - Corrective Maintenance: A felhasználók által felfedezett hibák kijavítása.
+        - Adaptive Maintenance: A program naprakészen tartása és finomhangolása.
+        - Perfective Maintenance: A webes felület hosszútávú használata érdekében végzett módosítások, illetve a webes felület teljesítményének és működési megbízhatóságának javítása.
+        - Preventive Maintenance: Olyan problémák elhárítása, amelyek még nem tűnnek fontosnak, de később komoly problémákat okozhatnak.
