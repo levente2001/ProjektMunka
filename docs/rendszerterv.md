@@ -70,7 +70,23 @@
 
 8. #### Architekturális terv
         •	A program JavaScript segítségével biztosít login felületet, ahol a felhasználó bejelentkezhet.
-        
+
+9. #### Implementációs terv
+        •	A program főként HTML, CSS, és JavaScript nyelveken fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz kapcsolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. 
+
+10. #### Tesztterv
+        1.	Alfa teszt:
+            o	A teszt célja: a meglévő funkciókat különböző böngészőkben teszteljük. A tesztet a fejlesztők végzik. Ez a folyamat sikeres, ha különböző böngészőkben megfelelően működnek a különböző funkciók.
+        2. Béta teszt:
+                o	Ezt a tesztet nem a fejlesztők végzik.
+                o	Tesztelendő böngészők: Google Chrome, Safari, Firefox
+                o	Tesztelendő kijelző méretek: 1280x720, 1366x768, 1920x1080
+
+            •	A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fejlesztőknek hiba fellépése esetén.
+            •	Ha hiba lép fel, a fejlesztők kijavítják a lehető leggyorsabban.
+        3. Tesztelendő funkciók: 
+            o	Login felület:
+                	•	A login felület elrendezésének ellenőrzése: A weblap megnyitásánál egy üdvözlő felület jelenik meg, ahol a Bejelentkezés gombra kattintva kell átirányítania a bejelentkező felületre. A képernyőterveknek megfelelően kell kinéznie. A bejelentkező felületen a felhasználónév és jelszó beírása után a bejelentkezés gombra kattintva át kell, hogy irányítson a főoldalra.
 
 11. #### Telepítési terv
 
