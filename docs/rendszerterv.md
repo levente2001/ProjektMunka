@@ -62,6 +62,16 @@
         4. munkafolyamatok listája
         5. munkafolyamat törlése
 
+6. #### Fizikai környezet
+        •	A program web platformra készül, elérhető lesz bármilyen eszközön, ami lépes webböngésző futtatására.
+        •	Nincsenek megvásárolt komponenseink
+        •	Fejlesztői eszközök:
+            o	Visual Studio Code
+
+8. #### Architekturális terv
+        •	A program JavaScript segítségével biztosít login felületet, ahol a felhasználó bejelentkezhet.
+        
+
 11. #### Telepítési terv
 
         A webes felülethez csak egy böngésző telepítése szükséges, külön szoftver nem kell hozzá. A webszerverre közvetlenül az internetről kapcsolódnak rá a kliensek.
