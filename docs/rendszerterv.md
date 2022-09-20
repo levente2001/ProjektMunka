@@ -1,7 +1,7 @@
 ## Rendszerterv
 
 1. #### A rendszer célja
-    Az informatikai rendszerünk célja, hogy a felhasználók, a korábbi megoldásokkal ellentétben, sokkal könnyebben végezze el a munkafolyamatok vezetését. Fontos szempont, hogy a kezelőfelület egyszerű, letisztult legyen. A webes alkalmazásban egyféle szerepkör van, a feladat amire hivatott nem igényel bonyolultabb rétegeket. A felület elérhető minden eszközről, ami képes internet elérésre. Az adatokat amikre szükség van az alkalmazáshoz, a felhasználó eszközén tároljuk.
+    Az informatikai rendszerünk célja, hogy a felhasználó, a korábbi megoldásokkal ellentétben, sokkal könnyebben végezze el a munkafolyamatok vezetését. A **Yoshihiro kft.** hagyományos biciklik elektromos biciklivé való átalakításával foglalkozik. A cégnél dolgozó munkatársaknak szüksége van egy bárhonnan elérhető weboldalra, amelyen a munka folyamatokat vezetni tudják, illetve az adott munkafolyamatok állapotát tudják szerkeszteni és új munkafolyamatokat létrehozni a rendszerben. Fontos szempont, hogy a kezelőfelület egyszerű, letisztult legyen. A webes alkalmazásban egyféle szerepkör van, a feladat amire hivatott nem igényel bonyolultabb rétegeket. A felület elérhető minden eszközről, ami képes internet elérésre. Az adatokat amikre szükség van az alkalmazáshoz, a felhasználó eszközén tároljuk.
 
 2. #### Projektterv
     **Projektszerepkörök, felelőségek:**
