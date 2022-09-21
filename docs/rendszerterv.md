@@ -82,6 +82,12 @@
         könnyebb változtathatóság, és könnyebb bővítés érdekében. 
 
 10. #### Tesztterv
+    A tesztelés célja az, hogyy a fejlesztés során létrejövő hibákat minél korábban felfedezze, és ezzel csökkentse azok kijavításának költségeit.
+    
+    Tesztelési eljárások
+
+    I. Manuális tesztek:
+
         1.	Alfa teszt:
             o	A teszt célja: a meglévő funkciókat különböző böngészőkben teszteljük. A tesztet a fejlesztők végzik. Ez a folyamat sikeres, ha különböző böngészőkben megfelelően működnek a különböző funkciók.
         2. Béta teszt:
@@ -91,12 +97,23 @@
 
             •	A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fejlesztőknek hiba fellépése esetén.
             •	Ha hiba lép fel, a fejlesztők kijavítják a lehető leggyorsabban.
-        3. Tesztelendő funkciók: 
-            o	Login felület:
-                	•	A login felület elrendezésének ellenőrzése: A weblap megnyitásánál egy üdvözlő felület jelenik meg, 
-                    ahol a Bejelentkezés gombra kattintva kell átirányítania a bejelentkező felületre. 
-                    A képernyőterveknek megfelelően kell kinéznie. A bejelentkező felületen a felhasználónév és jelszó 
-                    beírása után a bejelentkezés gombra kattintva át kell, hogy irányítson a főoldalra.
+        
+    II. Vannak automatikus tesztek is, ezeket az idő rövidsége miatt a programban nem alkalmaztuk:
+
+        Például:
+
+        1. Unit teszt
+         •	Ezek a tesztek a fejlesztés alatt tudják ellenőrizni, hogy egyes metódusok megfelelően működnek-e.
+         Ezeket a Unit teszteket a metódusok megfelelő működésének biztosítására használjuk, így ezeket a fejlesztés során minél több metódusra alkalmazzuk. Egy metódus akkor van kész, ha a tesztesetek hiba nélkül lefutnak.
+        
+
+    III. Tesztelendő funkciók: 
+        o	Login felület:
+            •	A login felület elrendezésének
+                ellenőrzése: A weblap megnyitásánál egy üdvözlő felület jelenik meg, 
+                ahol a Bejelentkezés gombra kattintva kell átirányítania a bejelentkező felületre. 
+                A képernyőterveknek megfelelően kell kinéznie. A bejelentkező felületen a felhasználónév és jelszó 
+                beírása után a bejelentkezés gombra kattintva át kell, hogy irányítson a főoldalra. 
 
 11. #### Telepítési terv
 
