@@ -1,0 +1,168 @@
+.login-form-form{
+  width: 400px;
+  height: 225px;
+  margin: 5% auto;
+  padding: 10px;
+  border-right: 5px solid teal;
+  border-bottom: 5px solid teal;
+  border-top: 1px solid teal;
+  border-left: 1px solid teal;
+  border-radius: 8px;
+  text-align: left;
+}
+
+
+h2{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  border-bottom: 4px solid #155151;
+  border-right: 4px solid #155151;
+  color: #eee;
+  background-color: teal;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+hr{
+  display: block;
+  height: 3px;
+  border:0;
+  border-top:3px solid teal;
+  margin-top: 15px;
+  padding:0;
+}
+
+#submit{
+  position: static;
+  display: block;
+  width: 100%;
+  height: 12%;
+  margin-top: 15px;
+  border-radius: 18px;
+  background-color: teal;
+  border-bottom: 4px solid #155151;
+  border-right: 4px solid #155151;
+  border-top:0;
+  border-left:0;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+  cursor: pointer;
+  transition: all .1s ease-in-out;
+}
+
+#submit:hover{
+  background-color: transparent;
+  border-color: #fff;
+  transition: all .1s ease-in-out;
+}
+
+.input {
+  height: 30px;
+  position: relative;
+  width: 100%;
+}
+
+
+.i {
+  margin-top: 20px;
+}
+
+.label {
+  background-color: teal;
+  border-radius: 12px;
+  border-bottom: 4px solid #155151;
+  border-right: 4px solid #155151;
+  border-top: 0;
+  border-left:0;
+  box-sizing: border-box;
+  color: #eee;
+  font-size: 10px;
+  height: 100%;
+  outline: 0;
+  padding: 4px 20px 0;
+  width: 100%;
+}
+
+.cut {
+  background-color: lightblue;
+  border-radius: 10px;
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: -20px;
+  transform: translateY(0);
+  transition: transform 200ms;
+  width: 76px;
+}
+
+.uid{
+  width: 100px;
+}
+
+.pwd{
+  width: 55px;
+}
+
+.label:focus ~ .cut,
+.label:not(:placeholder-shown) ~ .cut {
+  transform: translateY(8px);
+}
+
+.placeholder {
+  color: #eee;
+  font-family: sans-serif;
+  left: 20px;
+  line-height: 5px;
+  pointer-events: none;
+  position: absolute;
+  transform-origin: 0 50%;
+  transition: transform 200ms, color 200ms;
+  top: 12px;
+}
+
+.label:focus ~ .placeholder,
+.label:not(:placeholder-shown) ~ .placeholder {
+  transform: translateY(-16px) translateX(10px) scale(0.75);
+}
+
+.label:not(:placeholder-shown) ~ .placeholder {
+  color: teal;
+}
+
+.label:focus ~ .placeholder {
+  color: #2f88dc;
+}
+
+
+@media only screen and (max-width: 550px){
+  .login-form-form{
+    width: 200px;
+    height: 185px;
+    margin: 20% auto;
+    }
+  h2{
+    margin-top: 1px;
+    font-size: 90%;
+  }
+  hr{
+    margin-top: 8px;
+  }
+  #submit{
+    margin-top: 8px;
+    height: 20%;
+  }
+  .cut{
+    height: 8px;
+    left:10px;
+    top:-10px;
+  }
+  .i {
+    margin-top: 10px;
+  }
+  .label:focus ~ .placeholder,
+  .label:not(:placeholder-shown) ~ .placeholder {
+    transform: translateY(-15px) translateX(0px) scale(0.70);
+  }
+}
