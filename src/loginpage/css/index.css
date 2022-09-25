@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.yoshi-title{
+    color: white;
+    padding-top: 15%;
+    text-align: center;
+}
+
+p{
+    font-size: 5rem;
+    text-decoration: solid;
+}
+
+span{
+    color: #155151;
+}
