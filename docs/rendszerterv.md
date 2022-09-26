@@ -73,10 +73,15 @@
     ![](abstractdomain.png)
 
 8. #### Architekturális terv
-        •	A program JavaScript segítségével biztosít login felületet, ahol a felhasználó bejelentkezhet.
+        •	A program egy MySql szerverhez csatlakozik, ahol tároljuk a 
+        bejelentkezéshez szükséges adatokat, illetve a regisztráció után
+        ide kerülnek a beírt felhasználói adatok, amennyiben helyesen
+        adtuk meg őket. A jelszót titkosítás fogja védeni az adatok 
+        biztonsága érdekében, amit a php-be bépített függvény végez el.
+        Az oldalon létrehozott feladatokat is az adatbázisban tároljuk. 
 
 9. #### Implementációs terv
-        •	A program főként HTML, CSS, és JavaScript nyelveken fog készülni. 
+        •	A program főként HTML, CSS, és PHP nyelveken fog készülni. 
         Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, 
         és úgy fogjuk egymáshoz kapcsolni a jobb átláthatóság, 
         könnyebb változtathatóság, és könnyebb bővítés érdekében. 
@@ -95,7 +100,7 @@
             megfelelően működnek a különböző funkciók.
         2. Béta teszt:
                 o	Ezt a tesztet nem a fejlesztők végzik.
-                o	Tesztelendő böngészők: Google Chrome, Safari, Firefox
+                o	Tesztelendő böngészők: Google Chrome, Firefox
                 o	Tesztelendő kijelző méretek: 1280x720, 1366x768, 1920x1080
 
             •	A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek 
@@ -115,12 +120,31 @@
         
 
     III. Tesztelendő funkciók: 
+            o	Regisztrációs felület:
+                •	A fejlécen elhelyezkedő regisztrációs gombra
+                kattintva az programnak a regisztrációs felületre
+                kell dobnia mindket, ahol a regisztrációt elvégezhetjük.
+                Itt a megfelelő adatok beírásával egy 'Sikeres
+                regisztráció' feliratnnak kell jeleznie, hogy a 
+                regisztráció probléma mentesen megtörtént.
+
             o	Login felület:
                 •	A login felület elrendezésének
-                    ellenőrzése: A weblap megnyitásánál egy üdvözlő felület jelenik meg, 
-                    ahol a Bejelentkezés gombra kattintva kell átirányítania a bejelentkező felületre. 
-                    A képernyőterveknek megfelelően kell kinéznie. A bejelentkező felületen a felhasználónév és jelszó 
-                    beírása után a bejelentkezés gombra kattintva át kell, hogy irányítson a főoldalra. 
+                    ellenőrzése: A weblap megnyitásánál egy üdvözlő
+                    felület jelenik meg, ahol a Bejelentkezés gombra
+                    kattintva kell átirányítania a bejelentkező
+                    felületre. A képernyőterveknek megfelelően kell
+                    kinéznie. A bejelentkező felületen a felhasználónév
+                    és jelszó beírása után a bejelentkezés gombra
+                    kattintva át kell, hogy irányítson a főoldalra.
+
+            o	Feladatok felület:
+                •	Ezt a felületet bejelentkezés után kell, hogy 
+                elérjük a "Feladatok" fülre kattintva. Itt tudjuk 
+                kezelni a feladatainkat. Amikor beírunk egy feladatot, 
+                annak meg kell jelennie az "Add task" gombra kattintva 
+                az erre kijelölt felületen. Itt a feladatokat törölni 
+                tudjuk a piros "x" gombra kattintva.
 
 11. #### Telepítési terv
 
