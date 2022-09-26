@@ -1,0 +1,21 @@
+h1, h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: teal;
+}
+
+h4 {
+    padding-top: 10px;
+    padding-left: 20px;
+    color: teal;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+p {
+    padding: 10px 20px 10px 20px;
+    font-family: sans-serif;
+}
